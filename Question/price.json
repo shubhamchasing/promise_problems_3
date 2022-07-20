@@ -1,0 +1,47 @@
+{
+    "33343402394321344": {
+        "price": 339,
+        "discount": 12,
+        "applicableForOffers": false
+    },
+    "33343402394321293": {
+        "price": 889,
+        "discount": 33,
+        "applicableForOffers": true
+    },
+    "23829389283833838": {
+        "price": 88,
+        "discount": 2,
+        "applicableForOffers": false
+    },
+    "333434344394321344": {
+        "price": 300,
+        "discount": 40,
+        "applicableForOffers": false
+    },
+    "33343402394342293": {
+        "price": 400,
+        "discount": 2,
+        "applicableForOffers": true
+    },
+    "2382938928382349838": {
+        "price": 112,
+        "discount": 23,
+        "applicableForOffers": false
+    },
+    "33343402349091344": {
+        "price": 150,
+        "discount": 40,
+        "applicableForOffers": false
+    },
+    "32490320403294032432": {
+        "price": 500,
+        "discount": 40,
+        "applicableForOffers": false
+    },
+    "021930219309409343": {
+        "price": 80,
+        "discount": 0,
+        "applicableForOffers": true
+    }
+}
